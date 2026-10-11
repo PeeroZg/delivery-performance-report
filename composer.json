@@ -1,0 +1,14 @@
+{
+	"name": "dpd/delivery-report-challenge",
+	"description": "Delivery Performance Report",
+	"type": "project",
+	"require": {
+		"php": "^8.2",
+		"ext-pdo": "*",
+		"ext-pdo_pgsql": "*",
+		"phpoffice/phpspreadsheet": "^5.0"
+	},
+	"config": {
+		"sort-packages": true
+	}
+}
